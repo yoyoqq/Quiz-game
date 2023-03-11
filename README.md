@@ -1,6 +1,2 @@
-# Py-tkinter-GUI
-Graphical user interface to manipulate the database.
-
-
-![tkinter1](https://user-images.githubusercontent.com/39014985/195648351-1d33e390-5517-4423-bfb7-f6be79b2df8a.PNG)
-![tkinter](https://user-images.githubusercontent.com/39014985/195648404-bba503d2-52d1-4083-aa62-c8eb904889ac.PNG)
+# Quiz game 
+The task was to design and develop a standalone Quiz Generator system in Python that maintains a bank of quiz questions for different subjects covered on different modules. The system has two parts: the Administration Features and Quiz Features. The administration part includes maintaining a list of modules on a database, adding, editing, and deleting a module or a question, and maintaining a question bank per module in a questions table. The Quiz part of the application generates a quiz with 5 random questions selected from the question bank for a selected module. The possible answers for each question are displayed in random order, and the user can select one or more correct answers using an appropriate GUI widget. The system should also provide feedback on the answers provided by the user and show brief statistics. The overall goal is to produce a system that is well-designed, robust, and useful, with a clean and simple GUI design that operates smoothly without sluggishness or crashes and does not require instructions or a manual to use.
